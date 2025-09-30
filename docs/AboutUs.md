@@ -21,10 +21,11 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Leu Tho Anh Duy
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/duyleu.png" width="200px">
+>"Hi, I'm Duy, and I like warm hugs" - Duy
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/duyLeu)]
+[[portfolio](team/duyleu.md)]
 
 * Role: Team Lead
 * Responsibilities: UI
